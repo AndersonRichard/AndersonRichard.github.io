@@ -487,7 +487,9 @@ footer .line-footer p {
 #skills ul li {
     margin: 5px 0;
 }
-
+#teste{
+    background-color: #000;
+}
 /* ESTILO PARA VERSÃO MOBILE */
 @media screen and (max-width: 1020px) {
 
