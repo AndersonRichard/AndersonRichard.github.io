@@ -392,11 +392,9 @@ footer .line-footer p {
     text-align: center;
 }
 
-#teste{
-    display: flex;
-    text-align: center;
+.txt-footer{
+    color: #fff;
 }
-
 
 
 /* ESTILO CURRICULO  */
